@@ -52,7 +52,7 @@ font-family:Roboto,sans-serif,arial;
 .tabs{
 	display: flex;
 	justify-content:right;
-	margin-left: 420px;
+	margin-left: 300px;
 }
 .main-menu{
   list-style:none;
