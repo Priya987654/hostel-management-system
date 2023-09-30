@@ -253,9 +253,9 @@ height:auto;
 	height:250px;
 	width:68.68px; 
 }
-{
+/* {
 	box-sizing:border-box;
-}	
+}	 */
 .column{
 	float:left;
 	width:25%;
@@ -309,9 +309,6 @@ flex-direction:column;
 	.useful-info-ul>li{
 display: inline;
 
-	}
-	.useful-info-ul>a{
-		
 	}
 
 }
